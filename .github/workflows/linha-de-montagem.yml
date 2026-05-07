@@ -19,6 +19,3 @@ jobs:
 
      - name: 3.Estação de Teste (Controle de Qualidade)
        run: encho"Rodando os testes automatizados... Verificando se a porta abre e fecha!"
-  
-
- 
